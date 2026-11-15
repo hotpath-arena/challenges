@@ -1,0 +1,13 @@
+{
+  "memory": 256,
+  "max_output_bytes": 327680,
+  "languages": [
+    "go",
+    "rust",
+    "cpp"
+  ],
+  "output_validator_args": [
+    "case_sensitive",
+    "space_change_sensitive"
+  ]
+}
