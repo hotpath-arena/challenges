@@ -8,9 +8,9 @@ Build and check commands for all languages are in the
 
 | Language | Submission subdirectory |
 | --- | --- |
-| Go | [`demo-log-aggregation/code/go`](code/go/) |
-| Rust | [`demo-log-aggregation/code/rust`](code/rust/) |
-| C++ | [`demo-log-aggregation/code/cpp`](code/cpp/) |
+| Go | [`01-log-aggregation/code/go`](code/go/) |
+| Rust | [`01-log-aggregation/code/rust`](code/rust/) |
+| C++ | [`01-log-aggregation/code/cpp`](code/cpp/) |
 
 All three starters group requests by endpoint and then summarize each group.
 They produce the expected output and give you a baseline to measure. Optimize
