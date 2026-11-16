@@ -3,7 +3,7 @@
 Public starters, sample Tests and a small public benchmark for each Challenge.
 The statement, limits and the leaderboard are on the platform's Challenge page.
 
-- [Access Log Aggregation](demo-log-aggregation/)
+- [Access Log Aggregation](01-log-aggregation/)
 
 ## Layout
 
@@ -24,7 +24,7 @@ published.
 Fork this repository to your personal GitHub account, or copy one starter
 directory into a personal repository. Submit from the Challenge page. If you
 keep this layout, enter the starter directory as the subdirectory, for example
-`demo-log-aggregation/code/go`. If the starter is at the root of your
+`01-log-aggregation/code/go`. If the starter is at the root of your
 repository, leave the subdirectory empty.
 
 ## Check locally
