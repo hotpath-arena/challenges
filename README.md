@@ -12,7 +12,7 @@ Each Challenge directory holds:
 | Path | Contents |
 | --- | --- |
 | `README.md` | Starter table and notes for this Challenge |
-| `starter/<lang>/` | Starter projects for Go, Rust and C++ |
+| `code/<lang>/` | Starter code for Go, Rust and C++ |
 | `data/sample/` | Sample Tests: `.in` inputs and `.ans` answers |
 | `bench/` | Optional public Benchmark Input with its `.ans`, at most 1 MiB |
 
@@ -24,7 +24,7 @@ published.
 Fork this repository to your personal GitHub account, or copy one starter
 directory into a personal repository. Submit from the Challenge page. If you
 keep this layout, enter the starter directory as the subdirectory, for example
-`demo-log-aggregation/starter/go`. If the starter is at the root of your
+`demo-log-aggregation/code/go`. If the starter is at the root of your
 repository, leave the subdirectory empty.
 
 ## Check locally
