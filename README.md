@@ -21,11 +21,27 @@ published.
 
 ## Submit
 
-Fork this repository to your personal GitHub account, or copy one starter
-directory into a personal repository. Submit from the Challenge page. If you
-keep this layout, enter the starter directory as the subdirectory, for example
-`01-log-aggregation/code/go`. If the starter is at the root of your
-repository, leave the subdirectory empty.
+1. Create a **private** repository on your personal GitHub account.
+   Organization repositories are not accepted. Do not fork this repository:
+   a fork of a public repository is public, so anyone could read your
+   solution.
+2. Copy the starter into the same path it has here,
+   `<challenge>/code/<language>/`, for example `01-log-aggregation/code/go/`.
+   The platform always builds that directory for the language you choose;
+   a solution at the repository root or in another directory fails.
+3. Sign in on the platform and install the HotPath Arena GitHub App on your
+   personal account. Give it access to that repository.
+4. Push your changes. On the Challenge page, choose the repository, the
+   branch and the language, then submit. The platform captures the latest
+   commit of that branch.
+
+The platform downloads the whole repository at that commit, and the
+compressed archive must be at most 10 MiB. Do not commit build output such
+as `target/` or `build/`, inputs you generated, or other large files.
+
+Track progress on the Submission page. A Score that would improve your best
+is measured again at least one hour later. It appears on the Leaderboard
+only after that confirmation pass.
 
 ## Check locally
 
