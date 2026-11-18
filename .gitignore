@@ -1,0 +1,14 @@
+# Build output. The platform downloads your whole repository and the
+# compressed archive must stay at most 10 MiB, so keep these out of git.
+target/
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.out
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
