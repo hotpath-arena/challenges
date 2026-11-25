@@ -1,12 +1,12 @@
-<!-- perfarena-starter v1 slug=01-log-aggregation language=cpp target-cpu=haswell goamd64=v3 hardware-class=my-vps site=https://perfarena.valkirie-shield.xyz -->
+<!-- perfarena-starter v1 slug=01-log-aggregation language=cpp target-cpu=haswell goamd64=v3 hardware-class=my-vps site=https://hotpath-arena.com -->
 # Access Log Aggregation: cpp Starter
 
 You are working on one Starter of a performance Challenge on Hotpath Arena. The
 platform builds your code, runs it on hidden inputs and scores the sum of the median
 wall times. Lower is better.
 
-- Statement: https://perfarena.valkirie-shield.xyz/challenges/01-log-aggregation (Markdown: https://perfarena.valkirie-shield.xyz/challenges/01-log-aggregation.md)
-- Policy: LLMs and coding agents are allowed. You answer for what you submit. [Terms](https://perfarena.valkirie-shield.xyz/terms#llm)
+- Statement: https://hotpath-arena.com/challenges/01-log-aggregation (Markdown: https://hotpath-arena.com/challenges/01-log-aggregation.md)
+- Policy: LLMs and coding agents are allowed. You answer for what you submit. [Terms](https://hotpath-arena.com/terms#llm)
 
 ## Limits
 
